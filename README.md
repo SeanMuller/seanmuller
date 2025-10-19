@@ -10,7 +10,7 @@
 ### In progress
 - A react/go webapp with MongoDB for planning trips: https://github.com/SeanMuller/planner
 - A zig project looking for the longest non repeating game of Beggar my Neighbour
-- A rust project solving the problems on https://projecteuler.net/
+- A rust project solving the problems on https://projecteuler.net/ Repo: https://github.com/SeanMuller/Project-Euler
 ### Completed
 - Honour thesis using reinforcement learning in a battery management system for a solar home.
 - Tutorial following the go book https://lets-go.alexedwards.net/ . Repo: https://github.com/SeanMuller/lets_go
