@@ -8,12 +8,12 @@
 
 ## Projects
 ### In progress
-- A react/go webapp with MongoDB for planning trips: https://github.com/SeanMuller/planner
-- A zig project looking for the longest non repeating game of Beggar my Neighbour
-- A rust project solving the problems on https://projecteuler.net/ Repo: https://github.com/SeanMuller/Project-Euler
+- A react/go webapp with MongoDB for planning trips: See the [repo](https://github.com/SeanMuller/planner)
+- A zig project looking for the longest non repeating game of Beggar my Neighbour. See the [repo](https://github.com/SeanMuller/beggar-my-neighbour)
+- A rust project solving the problems on [Project Euler](https://projecteuler.net/) [Repo](https://github.com/SeanMuller/Project-Euler)
 ### Completed
-- Honour thesis using reinforcement learning in a battery management system for a solar home. https://github.com/SeanMuller/seanmuller/blob/main/Sean%20Muller%20Graduate%20Thesis.pdf
-- Tutorial following the go book https://lets-go.alexedwards.net/ . Repo: https://github.com/SeanMuller/lets_go
-- Follow up go tutorial book https://lets-go-further.alexedwards.net/ . Repo: https://lets-go-further.alexedwards.net/
+- Honour thesis using reinforcement learning in a battery management system for a solar home. View the pdf [here.](https://github.com/SeanMuller/seanmuller/blob/main/Sean%20Muller%20Graduate%20Thesis.pdf)
+- Tutorial following the go tutorial [Lets Go](https://lets-go.alexedwards.net/) by Alex Edwards. View the [repo.](https://github.com/SeanMuller/lets_go)
+- Follow up go tutorial [Let's Go Further](https://lets-go-further.alexedwards.net/) by Alex Edwards. View the [repo.](https://lets-go-further.alexedwards.net/)
 ## Links
 - [LinkedIn](your-linkedin)
